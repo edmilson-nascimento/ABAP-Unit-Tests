@@ -1,9 +1,6 @@
 # ABAP-Unit-Tests
 ABAP Unit Tests e diferentes exemplos
 
-
-# LearningABAP
-
 [![GitHub forks](https://img.shields.io/github/forks/edmilson-nascimento/ABAP-Unit-Tests?style=social)](https://github.com/edmilson-nascimento/ABAP-Unit-Tests/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/edmilson-nascimento/ABAP-Unit-Tests?style=social)](https://github.com/edmilson-nascimento/ABAP-Unit-Tests/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/edmilson-nascimento/ABAP-Unit-Tests)](https://github.com/edmilson-nascimento/ABAP-Unit-Tests/issues)
@@ -19,6 +16,10 @@ ABAP Unit Tests e diferentes exemplos
 ## Sobre
 
 ## Good to know
+
+### 01 Multiplicação e Soma
+Este é um exemplo básico para servir como o primeiro passo no aprendizado de ABAP.  
+O [código está disponível aqui](./code/01.abap) para consulta e atualizações.
 
 ## Recursos
 
