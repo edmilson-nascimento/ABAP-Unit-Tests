@@ -19,12 +19,19 @@ ABAP Unit Tests e diferentes exemplos
 
 ### 01 Math
 Este é um exemplo básico para servir como o primeiro passo no aprendizado de ABAP.  
-O [código está disponível aqui](./code/01.abap) para consulta e atualizações.
+O [código está disponível aqui](./code/Math.abap) para consulta e atualizações.
 
 Para isso foram seguidos os segintes passos.
-
-1. Criar uma classe ABAP com os seguintes metodos
-    - 
+- Criar uma classe ABAP com os seguintes metodos
+    - add_two
+    - multiply_by_two
+```mermaid
+classDiagram
+    class zcl_math_operations {
+        +add_two(iv_number: i): i
+        +multiply_by_two(iv_number: i): i
+    }
+```
 
 ## Recursos
 
