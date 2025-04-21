@@ -17,9 +17,14 @@ ABAP Unit Tests e diferentes exemplos
 
 ## Good to know
 
-### 01 Multiplicação e Soma
+### 01 Math
 Este é um exemplo básico para servir como o primeiro passo no aprendizado de ABAP.  
 O [código está disponível aqui](./code/01.abap) para consulta e atualizações.
+
+Para isso foram seguidos os segintes passos.
+
+1. Criar uma classe ABAP com os seguintes metodos
+    - 
 
 ## Recursos
 
