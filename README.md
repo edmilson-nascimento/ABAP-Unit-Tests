@@ -43,4 +43,3 @@ classDiagram
 ## Licença
 
 Este projeto está licenciado sob a licença SAP. É um produto da empresa [SAP](https://www.sap.com/index.html).  
-Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE) ou visite a página oficial de [licenciamento da SAP](https://www.sap.com/about/legal/copyright.html).
